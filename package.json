@@ -1,0 +1,31 @@
+{
+  "name": "leantest",
+  "version": "0.0.1",
+  "description": "test data tool which use mysql,redis",
+  "main": "leantest.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "ioredis": "^2.5.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leansail/leantest.git"
+  },
+  "keywords": [
+    "test",
+    "mysql",
+    "redis"
+  ],
+  "author": "leansail",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leansail/leantest/issues"
+  },
+  "homepage": "https://github.com/leansail/leantest#readme"
+}
